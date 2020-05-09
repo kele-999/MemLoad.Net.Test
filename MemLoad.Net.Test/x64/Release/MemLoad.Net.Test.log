@@ -1,0 +1,13 @@
+﻿  MemLoad.Net.Test.cpp
+C:\Users\win8_vs2019\Desktop\thinkpadX1\rat\SourceCode\White+black\1111111\MemLoad.Net.Test\pc.h(10,1): warning C4279: “or”: 类型库“mscorlib.tlb”中的标识符是关键字；使用“rename”限定符
+C:\Users\win8_vs2019\Desktop\thinkpadX1\rat\SourceCode\White+black\1111111\MemLoad.Net.Test\x64\Release\mscorlib.tlh(12974,35): error C2143: 语法错误: 缺少“)”(在“||”的前面)
+C:\Users\win8_vs2019\Desktop\thinkpadX1\rat\SourceCode\White+black\1111111\MemLoad.Net.Test\x64\Release\mscorlib.tlh(12974,35): error C2143: 语法错误: 缺少“;”(在“||”的前面)
+C:\Users\win8_vs2019\Desktop\thinkpadX1\rat\SourceCode\White+black\1111111\MemLoad.Net.Test\x64\Release\mscorlib.tlh(12974,35): error C2059: 语法错误:“||”
+C:\Users\win8_vs2019\Desktop\thinkpadX1\rat\SourceCode\White+black\1111111\MemLoad.Net.Test\x64\Release\mscorlib.tlh(12974,38): error C2059: 语法错误:“)”
+C:\Users\win8_vs2019\Desktop\thinkpadX1\rat\SourceCode\White+black\1111111\MemLoad.Net.Test\x64\Release\mscorlib.tlh(12974,43): error C2238: 意外的标记位于“;”之前
+C:\Users\win8_vs2019\Desktop\thinkpadX1\rat\SourceCode\White+black\1111111\MemLoad.Net.Test\x64\Release\mscorlib.tlh(12977,35): error C2143: 语法错误: 缺少“)”(在“||”的前面)
+C:\Users\win8_vs2019\Desktop\thinkpadX1\rat\SourceCode\White+black\1111111\MemLoad.Net.Test\x64\Release\mscorlib.tlh(12977,35): error C2143: 语法错误: 缺少“;”(在“||”的前面)
+C:\Users\win8_vs2019\Desktop\thinkpadX1\rat\SourceCode\White+black\1111111\MemLoad.Net.Test\x64\Release\mscorlib.tlh(12977,35): error C2059: 语法错误:“||”
+C:\Users\win8_vs2019\Desktop\thinkpadX1\rat\SourceCode\White+black\1111111\MemLoad.Net.Test\x64\Release\mscorlib.tlh(12977,38): error C2059: 语法错误:“)”
+C:\Users\win8_vs2019\Desktop\thinkpadX1\rat\SourceCode\White+black\1111111\MemLoad.Net.Test\x64\Release\mscorlib.tlh(12977,43): error C2238: 意外的标记位于“;”之前
+C:\Users\win8_vs2019\Desktop\thinkpadX1\rat\SourceCode\White+black\1111111\MemLoad.Net.Test\MemLoad.Net.Test.cpp(5,1): fatal error C1021: 无效的预处理器命令“incluxe”
